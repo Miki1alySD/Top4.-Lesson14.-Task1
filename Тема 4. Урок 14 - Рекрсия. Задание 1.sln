@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Тема 4. Урок 14 - Рекрсия. Задание 1", "Тема 4. Урок 14 - Рекрсия. Задание 1\Тема 4. Урок 14 - Рекрсия. Задание 1.pyproj", "{17AA89AE-6653-4509-81EA-5F5E0A7A5662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AA89AE-6653-4509-81EA-5F5E0A7A5662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AA89AE-6653-4509-81EA-5F5E0A7A5662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1617AA4-FC96-4665-9C02-29B88C5F8B7B}
+	EndGlobalSection
+EndGlobal
